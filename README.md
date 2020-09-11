@@ -1,6 +1,8 @@
 # foody
 
-A new Flutter application.
+A Food Flutter application.
+
+Credit design to: [Food bit App](https://www.behance.net/gallery/82583397/Food-Bit-App-UI-UX-design-case-study)
 
 ## Getting Started
 
